@@ -13,4 +13,9 @@
     'match': '<(ra?dar:/(?:/problems?|)/(?:[&0-9]+))>'
     'name': 'storage.type.class.radar'
   }
+  {
+    'match': '###.*###'
+    'name': 'my.headline'
+  }
 ]
+# ###  this is a headline ###
